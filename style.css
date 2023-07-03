@@ -1,0 +1,13 @@
+
+    body {
+      
+        position:relative;
+    }
+    .right-side {
+        background-image: url("./img.jpg");
+        background-size: 100% 100%;
+    }
+    .left-side
+    {
+        background-image: url("./weather.webp");
+    }
